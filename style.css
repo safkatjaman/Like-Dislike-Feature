@@ -1,1 +1,41 @@
-css
+body {
+      text-align: center;
+      padding: 2em;
+}
+
+.site-css {
+      font-family: cascadia code;
+}
+
+.safkatJaman {
+      height: 20em;
+      width: 20em;
+      border-radius: 50%;
+      border: .3em solid rgb(190, 190, 190);
+}
+
+.new-div-css {
+      margin: 1em 0 0 0;
+}
+
+.likes-button, .dislikes-button {
+      margin: .5em;
+      font-size: 3em;
+      cursor: pointer;
+}
+
+.likes-button {
+      color: rgb(0, 183, 255);
+}
+
+.likes-button:hover {
+      color: rgb(236, 102, 24);
+}
+
+.dislikes-button {
+      color: rgb(101, 209, 79);
+}
+
+.dislikes-button:hover {
+      color: rgb(226, 107, 167);
+}
